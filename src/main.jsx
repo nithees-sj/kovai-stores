@@ -12,16 +12,16 @@ const categories = [
   { id: 'groceries', name: 'Spices & groceries', subtitle: 'A pantry full of possibilities', image: 'spices', icon: Leaf },
 ];
 const products = [
-  { id:'rice', name:'Rice varieties', category:'rice', image:'rice', subtitle:'Everyday staple', description:'Explore rice for everyday meals and special occasions. Ask us about the varieties and pack sizes currently available.' },
-  { id:'raw-rice', name:'Raw rice', category:'rice', image:'rice', subtitle:'Kitchen essential', description:'A versatile pantry staple for your everyday cooking. Visit the store to find the right variety for your kitchen.' },
-  { id:'dal', name:'Toor dal', category:'pulses', image:'pulses', subtitle:'Pulses & dals', description:'A familiar ingredient in comforting dals and South Indian sambar. Ask in store about current stock and quantities.' },
-  { id:'moong', name:'Moong & green gram', category:'pulses', image:'pulses', subtitle:'Everyday nourishment', description:'Explore whole and split pulses for a variety of home-cooked meals. Available varieties can be confirmed at the shop.' },
-  { id:'lentils', name:'Lentil varieties', category:'pulses', image:'pulses', subtitle:'Pantry staple', description:'Pulses and lentils for everyday cooking, available for household and bulk requirements. Confirm the current selection with us.' },
-  { id:'wheat', name:'Whole wheat', category:'grains', image:'millets', subtitle:'Grains & cereals', description:'Whole grains for your kitchen or business. Ask Karthik about the current selection and wholesale quantities.' },
-  { id:'millets', name:'Millet varieties', category:'grains', image:'millets', subtitle:'Wholesome essentials', description:'Discover grain and millet options for traditional meals. Confirm individual millet varieties and availability when you visit.' },
-  { id:'cereals', name:'Cereal varieties', category:'grains', image:'millets', subtitle:'Your everyday grain selection', description:'A selection of cereal and grain essentials for wholesale and retail requirements. Explore the current range in store.' },
-  { id:'spices', name:'Whole spices', category:'groceries', image:'spices', subtitle:'Flavour in every pinch', description:'Pantry spices to bring flavour to everyday meals. Ask about the whole spices currently available at Kovai Stores.' },
-  { id:'grocery', name:'Everyday groceries', category:'groceries', image:'pantry-hero', subtitle:'All your pantry needs', description:'Bring your grocery list and discover everyday essentials for your home or business. Confirm brands and availability in store.' },
+  { id:'rice', name:'Rice varieties', category:'rice', image:'product-rice-varieties', subtitle:'Everyday staple', description:'Explore rice for everyday meals and special occasions. Ask us about the varieties and pack sizes currently available.' },
+  { id:'raw-rice', name:'Raw rice', category:'rice', image:'product-raw-rice', subtitle:'Kitchen essential', description:'A versatile pantry staple for your everyday cooking. Visit the store to find the right variety for your kitchen.' },
+  { id:'dal', name:'Toor dal', category:'pulses', image:'product-toor-dal', subtitle:'Pulses & dals', description:'A familiar ingredient in comforting dals and South Indian sambar. Ask in store about current stock and quantities.' },
+  { id:'moong', name:'Moong & green gram', category:'pulses', image:'product-moong-green-gram', subtitle:'Everyday nourishment', description:'Explore whole and split pulses for a variety of home-cooked meals. Available varieties can be confirmed at the shop.' },
+  { id:'lentils', name:'Lentil varieties', category:'pulses', image:'product-lentil-varieties', subtitle:'Pantry staple', description:'Pulses and lentils for everyday cooking, available for household and bulk requirements. Confirm the current selection with us.' },
+  { id:'wheat', name:'Whole wheat', category:'grains', image:'product-whole-wheat', subtitle:'Grains & cereals', description:'Whole grains for your kitchen or business. Ask Karthik about the current selection and wholesale quantities.' },
+  { id:'millets', name:'Millet varieties', category:'grains', image:'product-millet-varieties', subtitle:'Wholesome essentials', description:'Discover grain and millet options for traditional meals. Confirm individual millet varieties and availability when you visit.' },
+  { id:'cereals', name:'Cereal varieties', category:'grains', image:'product-cereal-varieties', subtitle:'Your everyday grain selection', description:'A selection of cereal and grain essentials for wholesale and retail requirements. Explore the current range in store.' },
+  { id:'spices', name:'Whole spices', category:'groceries', image:'product-whole-spices', subtitle:'Flavour in every pinch', description:'Pantry spices to bring flavour to everyday meals. Ask about the whole spices currently available at Kovai Stores.' },
+  { id:'grocery', name:'Everyday groceries', category:'groceries', image:'product-everyday-groceries', subtitle:'All your pantry needs', description:'Bring your grocery list and discover everyday essentials for your home or business. Confirm brands and availability in store.' },
 ];
 const mapUrl = 'https://www.google.com/maps/search/?api=1&query=Kovai+Stores+Marathupalayam+Erode';
 

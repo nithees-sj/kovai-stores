@@ -34,4 +34,4 @@ No phone number, opening hours, exact street address, inventory prices, delivery
 
 ## Images
 
-Five original assets were created with the built-in image generation tool and saved in `public/images/` as optimized WebP files. The complete prompts are recorded in `IMAGE_PROMPTS.md`.
+Fifteen original assets were created with the built-in image generation tool and saved in `public/images/` as optimized WebP files: five homepage/category photos and ten distinct product photos. Each catalogue product uses its own image in the product card, detail dialog and enquiry list. The complete prompts are recorded in `IMAGE_PROMPTS.md` and `PRODUCT_IMAGE_PROMPTS.md`.
