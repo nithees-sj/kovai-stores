@@ -13,3 +13,4 @@
 .wholesale-image>img{position:absolute;inset:0}
 .footer-main>.footer-visit>a{display:inline-flex}
 @media(max-width:560px){.story-art-number{top:68px;bottom:auto;right:20px;font-size:130px}}
+@media(max-width:360px){.nav-enquire.button{display:none}}
